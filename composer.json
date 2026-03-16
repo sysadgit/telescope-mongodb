@@ -1,5 +1,5 @@
 {
-    "name": "telescope-mongodb",
+    "name": "trioangle/telescope-mongodb",
     "description": "An elegant debug assistant for the Laravel framework. Made compatible with MongoDB.",
     "keywords": ["laravel", "monitoring", "debugging"],
     "license": "MIT",
