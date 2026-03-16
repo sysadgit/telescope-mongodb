@@ -1,5 +1,5 @@
 {
-    "name": "farmani/telescope-mongodb",
+    "name": "telescope-mongodb",
     "description": "An elegant debug assistant for the Laravel framework. Made compatible with MongoDB.",
     "keywords": ["laravel", "monitoring", "debugging"],
     "license": "MIT",
